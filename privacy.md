@@ -64,7 +64,7 @@ If this policy changes, the updated version will be posted on this page with a n
 
 If you have privacy questions, contact:
 
-- **Email:** `shankar.sethuraman@gmail.com`
+- **Email:** `northboundlabs.apps@gmail.com`
 
 ## Last Updated
 
