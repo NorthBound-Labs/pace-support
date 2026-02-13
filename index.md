@@ -12,7 +12,7 @@ For support, feedback, or bug reports, contact:
 
 ## Common Help
 
-### Pace shows 0 steps
+### Pace shows 0 steps and no data for previous days
 
 Pace requests required permissions during first-time setup.
 
