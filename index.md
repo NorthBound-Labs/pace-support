@@ -16,7 +16,7 @@ For support, feedback, or bug reports, contact:
 
 Pace requests required permissions during first-time setup.
 
-If you skipped or denied permissions during setup, you can enable them anytime:
+This can happen if you skipped or denied permissions during setup. To fix permissions:
 
 1. Open Pace.
 2. Tap the **shield icon** in the top-right.
@@ -24,8 +24,6 @@ If you skipped or denied permissions during setup, you can enable them anytime:
 4. In Apple Health, make sure Pace can read:
    - Steps
    - Walking + Running Distance (recommended)
-
-This is the same permission setup you see during onboarding, available again as a recovery path.
 
 ### Live steps are not updating
 
