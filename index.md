@@ -45,7 +45,7 @@ Pace can show live pedometer updates while the app is open. HealthKit remains th
 
 Read the full privacy policy here:
 
-- [Privacy Policy](./privacy)
+- [Privacy Policy](./privacy.md)
 
 ## Last Updated
 
